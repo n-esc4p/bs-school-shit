@@ -1,6 +1,6 @@
 a = 0
-b = 100
-while a <= b:
+b = 10
+while a < b:
     a += 1
     print(a)
 

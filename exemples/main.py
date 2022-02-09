@@ -3,9 +3,7 @@ def br():
 
 
 print("1 2 3 \n")
-print("1")
-print("2")
-print("3")
+print("1\n2\n3")
 br()
 
 nom = input("nom: ")

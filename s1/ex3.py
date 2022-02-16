@@ -4,4 +4,3 @@ denom = 5
 while num >= denom:
     num -= denom
 print(num)
-

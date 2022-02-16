@@ -3,11 +3,11 @@ def tbl7():
         print(n*7)
 
 
-def tbl8():
+def tbl(t):
     for n in range(11):
-        print(n*8)
+        print(n*t)
 
 
 tbl7()
 print("\n")
-tbl8()
+tbl(8)

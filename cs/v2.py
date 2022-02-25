@@ -5,8 +5,8 @@ print("3 barre chocolat 2.00€")
 print("4 bonbon 3.30€")
 print("5 ice tea 2.20€")
 print("6 limonade 1.90€")
-argent = float(input("Veuillez introduire le argent : "))
-produit = int(input("Veuillez selectioner le produit : "))
+argent = float(input("introduire le argent :"))
+produit = int(input("selectione le produit :"))
 if produit == 1:
     prix = 4.90
     print("sandwitch au poulet")

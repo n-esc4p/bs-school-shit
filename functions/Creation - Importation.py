@@ -21,4 +21,6 @@ def cub(n):
 
 
 print(car(4))
+print(car(int(input())))
 print(cub(10))
+print(cub(int(input())))

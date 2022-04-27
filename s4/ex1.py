@@ -8,4 +8,3 @@ suivant de la liste :
 
 nombres = [2, 45, -7, 19, 183, 45, 78, 96]
 print(nombres[1:3])
-

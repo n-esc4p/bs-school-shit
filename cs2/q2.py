@@ -1,3 +1,9 @@
+"""
+Créer une fonction qui permet de calculer la multiplication de 5 valeurs d'une liste définie dans la fonction avec la boucle for.
+L'affichage du résultat devra être explicite.
+"""
+
+
 def multip():
     numlist = []
     for n in range(5):

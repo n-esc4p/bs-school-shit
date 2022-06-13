@@ -1,0 +1,18 @@
+Algorithme ex1
+
+
+
+
+Variables :	m : Entier
+		F : Réel
+
+Constante : 	a : Réel
+
+a <- 9.81
+
+
+Programme :
+
+m <- 7
+F <- m*a
+écrire("Force : ", f)
